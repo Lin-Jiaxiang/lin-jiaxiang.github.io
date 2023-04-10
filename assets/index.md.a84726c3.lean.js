@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,N as r}from"./chunks/framework.d1d4cfe9.js";const f=JSON.parse('{"title":"Hello Super-ui","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"},n=r("",7),i=[n];function s(l,h,c,d,u,p){return a(),t("div",null,i)}const m=e(o,[["render",s]]);export{f as __pageData,m as default};
